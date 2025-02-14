@@ -1,0 +1,7 @@
+local\sasouza\calculadora\javafx\App.class
+module-info.class
+local\sasouza\calculadora\javafx\SecondaryController.class
+local\sasouza\calculadora\javafx\operacoes\Calcula.class
+local\sasouza\calculadora\javafx\TipoOperador.class
+local\sasouza\calculadora\javafx\PrimaryController.class
+local\sasouza\calculadora\javafx\operacoes\Calcula$1.class
